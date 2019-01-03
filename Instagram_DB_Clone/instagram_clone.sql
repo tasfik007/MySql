@@ -1,6 +1,6 @@
 --Tasfik Rahman
 -- source Instagram_Clone/instagram_clone.sql;
-DROP DATABASE instagram_clone;
+DROP DATABASE IF EXISTS instagram_clone;
 CREATE DATABASE instagram_clone;
 USE instagram_clone;
 
